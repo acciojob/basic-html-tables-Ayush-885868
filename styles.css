@@ -3,7 +3,7 @@
 table{
 	border-collapse:separate;
 	border-spacing:0;
-	border-radius:4px;
+	/*border-radius:4px;*/
 	overflow:hidden;
 }
 th,td,tr{
@@ -12,6 +12,6 @@ th,td,tr{
 }
 th{
 	background-color:oldlace;
-	border-radius: 5px;
+	/*border-radius: 5px;*/
 }
 }
